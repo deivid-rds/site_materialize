@@ -1,0 +1,68 @@
+/* Limitar o tamanho da página principal */
+#tabSelector
+{
+    max-width: 1200px;
+}
+
+/* Espaçamento entre as Redes Sociais */
+div.nav-wrapper.center a img
+{
+    margin-right: 0.2%;
+    margin-left: 0.2%;
+}
+
+/* Arredondar cantos da escrita do slider */
+div.caption.left-align
+{
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding-left: 2%;
+}
+
+/* Espaço top */
+.espaco-top
+{
+    margin-top: 5%;
+}
+
+/* Diminuir padding para cards ter títulos mais organizados */
+div.card-content
+{
+    padding: 10px !important;
+}
+
+/* Arredondar cards de título abaixo do slider */
+div.card.grey.darken-4
+{
+    border-radius: 10px;
+}
+
+/* Cor do título do card abaixo do slider */
+.titulo-card
+{
+    color: #54c5f6 !important;
+}
+
+/* Cor do texto do card abaixo do slider */
+.descricao-card
+{
+    color: #7e7e7e;
+}
+
+/* Cor preta padrão */
+.cor-padrao
+{
+    color: rgba(0,0,0,0.87);
+}
+
+/* Mudar cor do hover */
+a.hover-azul:hover
+{
+    color: #54c5f6;
+}
+
+/* Endereço para letra normal (vem como itálico) */
+address
+{
+    font-style: normal;
+}

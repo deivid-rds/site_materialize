@@ -1,0 +1,118 @@
+/* Limitar o tamanho da página principal */
+#tabSelector
+{
+    max-width: 1200px;
+}
+
+/* Espaçamento entre as Redes Sociais */
+div.nav-wrapper.center a img
+{
+    margin-right: 0.2%;
+    margin-left: 0.2%;
+}
+
+/* Arredondar cantos da escrita do slider */
+div.caption.left-align
+{
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding-left: 2%;
+}
+
+/* Espaçamento para o card principal */
+div#card_principal.container
+{
+    margin-top: 2%;
+}
+
+/* Alterações na página de Galeria */
+.carousel
+{
+    margin: 0;
+    padding: 0;
+    height: 300px;
+    perspective: 400px;
+}
+
+/* Alterações na página de Galeria */
+.carousel .carousel-item
+{
+    margin: 0;
+    padding: 0;
+    width: 300px;
+}
+
+/* Alterações na página de Galeria */
+.carousel .carousel-item img
+{
+    width: 100%;
+}
+
+/* Alterações na página de Galeria */
+.carousel .carousel-item h6
+{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Alterações na página de Galeria */
+.card .card-image .img_principal
+{
+    max-width: 620px;
+    max-height: 450px;
+}
+
+/* Setar no Carousel de imagens */
+.wrapper-carousel{
+    position: relative;
+    z-index: 0;
+}
+
+/* Espaço entre títulos e conteúdo na página de Galeria */
+div#galeria h5.espaco_acima
+{
+    margin-top: 10%;
+}
+
+/* Espaço entre títulos e conteúdo na página de Contato */
+div#contato h5.espaco_acima
+{
+    margin-top: 10%;
+}
+
+/* Espaço entre títulos e conteúdo na página de Localização */
+div#localizacao h5.espaco_acima
+{
+    margin-top: 10%;
+}
+
+/* Espaço entre títulos e conteúdo na página de Sobre */
+div#sobre h5.espaco_acima
+{
+    margin-top: 10%;
+}
+
+/* Cor preta padrão */
+.cor-padrao
+{
+    color: rgba(0,0,0,0.87);
+}
+
+/* Mudar cor do hover */
+a.hover-azul:hover
+{
+    color: #52c8fa;
+}
+
+/* Endereço para letra normal (vem como itálico) */
+address
+{
+    font-style: normal;
+}
+
+/* Espaço no Rodapé */
+footer
+{
+    margin-top: 10%;
+}
