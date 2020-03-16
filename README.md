@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="Logo">
+</p>     
+     
 <h1 align="center">Modelo de site em Materialize<h1>
 
 <h2>Objetivo</h2>
