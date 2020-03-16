@@ -69,26 +69,8 @@ div#card_principal.container
     z-index: 0;
 }
 
-/* Espaço entre títulos e conteúdo na página de Galeria */
-div#galeria h5.espaco_acima
-{
-    margin-top: 10%;
-}
-
-/* Espaço entre títulos e conteúdo na página de Contato */
-div#contato h5.espaco_acima
-{
-    margin-top: 10%;
-}
-
-/* Espaço entre títulos e conteúdo na página de Localização */
-div#localizacao h5.espaco_acima
-{
-    margin-top: 10%;
-}
-
-/* Espaço entre títulos e conteúdo na página de Sobre */
-div#sobre h5.espaco_acima
+/* Espaço entre títulos e conteúdo */
+.espaco_acima
 {
     margin-top: 10%;
 }

@@ -68,6 +68,7 @@
             <ul id="tabSelector" class="tabs tabs-transparent tabs-fixed-width">
                 <li class="tab"><a href="#inicio" class="active">Início</a></li>
                 <li class="tab"><a href="#galeria">Galeria</a></li>
+                <li class="tab"><a href="#musicas">Músicas</a></li>
                 <li class="tab"><a href="#contato">Contato</a></li>
                 <li class="tab"><a href="#localizacao">Localização</a></li>
                 <li class="tab"><a href="#sobre">Sobre</a></li>
@@ -205,6 +206,76 @@
 
             </div>
         </div>
+
+    </div>
+
+    <!-- ABA MÚSICAS -->
+    <div id="musicas" class="col s12 container">
+
+        <h5 class="espaco_acima">Algumas composições</h5>
+        
+        <table class="highlight">
+            <thead>
+                <tr>
+                    <th>Item</th>
+                    <th>Música</th>
+                    <th></th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Ele é Deus</td>
+                    <td><a class="hover-azul cor-padrao" href="https://www.youtube.com/watch?v=HQ9J43KkPI8" target="_blank">Ouvir</a></td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Deus está me vendo</td>
+                    <td><a class="hover-azul cor-padrao" href="https://www.youtube.com/watch?v=-i6CN57Qtw4" target="_blank">Ouvir</a></td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Coração guerreiro</td>
+                    <td><a class="hover-azul cor-padrao" href="https://www.youtube.com/watch?v=QyqdxRtYFow" target="_blank">Ouvir</a></td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Vou vencer</td>
+                    <td><a class="hover-azul cor-padrao" href="https://www.youtube.com/watch?v=87AuirRYUhE" target="_blank">Ouvir</a></td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Graça do terceiro céu</td>
+                    <td><a class="hover-azul cor-padrao" href="https://www.youtube.com/watch?v=ryOeL9ZePhQ" target="_blank">Ouvir</a></td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>Do outro lado</td>
+                    <td><a class="hover-azul cor-padrao" href="https://www.youtube.com/watch?v=3WYcR1W3nJc" target="_blank">Ouvir</a></td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>Depois da prova</td>
+                    <td><a class="hover-azul cor-padrao" href="https://www.youtube.com/watch?v=Tv-a_6cx_Eg" target="_blank">Ouvir</a></td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>Meu barquinho</td>
+                    <td><a class="hover-azul cor-padrao" href="https://www.youtube.com/watch?v=eMBfKG0T928" target="_blank">Ouvir</a></td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>És meu respirar</td>
+                    <td><a class="hover-azul cor-padrao" href="https://www.youtube.com/watch?v=7fbv7fraETM" target="_blank">Ouvir</a></td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>Os sonhos de Deus</td>
+                    <td><a class="hover-azul cor-padrao" href="https://www.youtube.com/watch?v=BzC8T4c56ck" target="_blank">Ouvir</a></td>
+                </tr>
+            </tbody>
+        </table>
 
     </div>
 
