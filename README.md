@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="Logo">
+  <img src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="Logo" width="200">
 </p>     
      
-<h1 align="center">Modelo de site em Materialize<h1>
+<h1 align="center">Sites em Materialize<h1>
 
 <h2>Objetivo</h2>
-Criar molde de site.
+Criar sites em Materialize.
 
 <h2>Ferramentas utilizadas</h2>
 <ul>
