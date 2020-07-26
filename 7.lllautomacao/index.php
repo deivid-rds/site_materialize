@@ -273,10 +273,9 @@
     <div id="sobre" class="col s12 container">
 
         <h5 class="espaco_acima">Sobre nós</h5>
-        <p>Nascemos em 1999 com o intuito de facilitar aos cristãos materiais bíblicos. O tempo passou,
-            então vimos um mercado cada vez mais crescente de panelas e formas, produtos Natura e Boticário,
-            pois isso, optamos por também adquiri-los e assim termos um ambiente de fácil acesso a diversos
-            produtos num mesmo local.
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto molestias non quidem eligendi 
+           error recusandae aspernatur at voluptate! Nisi, assumenda? Tenetur consequuntur soluta, recusandae placeat 
+           consequatur inventore cupiditate quo?
         </p>
 
     </div>
