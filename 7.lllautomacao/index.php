@@ -161,200 +161,57 @@
     <!-- ABA GALERIA -->
     <div id="galeria" class="container">
 
-        <!-- Livraria evangélica -->
+        <!-- Produto 1 -->
         <div class="wrapper-carousel">
-            <h5 class="espaco_acima">Livraria evangélica</h5>
+            <h5 class="espaco_acima">Produto 1</h5>
 
             <div id="carousel-1" class="carousel">
 
                 <!-- É preciso ter dentro do elemento da classe .carousel um elemento .carousel-item, mesmo que vazio, para que ele possa fazer os cálculos. -->
 
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img9.jpg">
+                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
                 </div>
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img10.jpg">
+                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
                 </div>
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img11.jpg">
+                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
                 </div>
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img12.jpg">
+                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
                 </div>
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img34.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img13.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img14.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img15.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img16.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img17.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img18.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img19.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img20.jpg">
+                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
                 </div>
 
             </div>
         </div>
 
-        <!-- Panela e forma -->
+        <!-- Produto 2 -->
         <div class="wrapper-carousel">
-            <h5 class="espaco_acima">Panela e forma</h5>
+            <h5 class="espaco_acima">Produto 2</h5>
 
             <div id="carousel-2" class="carousel">
 
                 <!-- É preciso ter dentro do elemento da classe .carousel um elemento .carousel-item, mesmo que vazio, para que ele possa fazer os cálculos. -->
 
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img35.jpg">
+                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
                 </div>
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img36.jpg">
+                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
                 </div>
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img37.jpg">
+                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
                 </div>
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img38.jpg">
+                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
                 </div>
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img39.jpg">
+                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
                 </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img40.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img41.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img42.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img43.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img44.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img45.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img46.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img47.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img48.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img49.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img50.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img51.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img52.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img53.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img54.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img55.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img56.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img57.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img58.jpg">
-                </div>
-
-            </div>
-        </div>
-
-        <!-- Natura -->
-        <div class="wrapper-carousel">
-            <h5 class="espaco_acima">Natura</h5>
-
-            <div id="carousel-3" class="carousel">
-
-                <!-- É preciso ter dentro do elemento da classe .carousel um elemento .carousel-item, mesmo que vazio, para que ele possa fazer os cálculos. -->
-
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img21.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img22.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img23.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img24.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img25.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img26.jpg">
-                </div>
-
-            </div>
-        </div>
-
-        <!-- Boticário -->
-        <div class="wrapper-carousel">
-            <h5 class="espaco_acima">Boticário</h5>
-
-            <div id="carousel-4" class="carousel">
-
-                <!-- É preciso ter dentro do elemento da classe .carousel um elemento .carousel-item, mesmo que vazio, para que ele possa fazer os cálculos. -->
-
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img27.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img28.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img29.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img30.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img31.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img32.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img33.jpg">
-                </div>
+               
 
             </div>
         </div>
