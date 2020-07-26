@@ -241,12 +241,12 @@
 
             <!-- Telefone -->
             <h5 class="espaco_acima">Telefone</h5>
-            <a class="hover-laranja cor-padrao" href="tel:19997913578">(19) 9 9791-3578</a>
+            <a class="hover-laranja cor-padrao" href="tel:19997854323">(19) 9 9785-4323</a>
 
             <!-- E-mail -->
             <h5 class="espaco_acima">E-mail</h5>
-            <a class="hover-laranja cor-padrao" href="mailto:jose@emporiobelem.com.br">
-                jose@emporiobelem.com.br
+            <a class="hover-laranja cor-padrao" href="mailto:lllautomacao@lllautomacao.com.br">
+                lllautomacao@lllautomacao.com.br
             </a>
 
         </div>
