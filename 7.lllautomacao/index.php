@@ -38,7 +38,7 @@
     <!-- TOPO DA PÁGINA -->
 
     <!-- NAVBAR -->
-    <nav class="nav-extended teal accent-2">
+    <nav class="nav-extended purple accent-4">
 
         <div class="nav-wrapper center">
             <img style="margin-top: 25px;" src="imagem/logo.png" alt="Logo"><br>
