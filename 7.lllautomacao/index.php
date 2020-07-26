@@ -10,10 +10,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="Site que demonstrará os itens vendidos na loja física, que são da livraria, 
-        panela, Natura e Boticário.">
-    <meta name="keywords" content="site, livraria, livros, bíblias, harpas, evangélico, panela, forma, natura, 
-        boticário, perfume, creme">
+    <meta name="description" content="Site que mostra como se ter energia solar em sua residência ou negócio.">
+    <meta name="keywords" content="placa, energia solar, residência, comércio, indústria, sustentabilidade, energia 
+        elétrica, inovação, telhado, energia, eletricidade">
 
     <!-- Materialize CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
@@ -28,7 +27,7 @@
     <link rel="stylesheet" href="/css/estilo.css">
 
     <!-- Título -->
-    <title>Empório Belém</title>
+    <title>lll Automação</title>
 
 </head>
 
@@ -47,11 +46,11 @@
             <!-- Redes Sociais -->
             <!-- Tooltipped é o hint -->
             <!-- Whatsapp -->
-            <a class="tooltipped" data-position="top" data-tooltip="Whatsapp" href="https://api.whatsapp.com/send?phone=+55019997913578&text=Olá, tudo bem?" target="_blank">
+            <a class="tooltipped" data-position="top" data-tooltip="Whatsapp" href="https://api.whatsapp.com/send?phone=+55019997854323&text=Olá, tudo bem?" target="_blank">
                 <img src="imagem/icone/escuro/whatsapp.png" alt="Whatsapp">
             </a>
             <!-- Facebook -->
-            <a class="tooltipped" data-position="top" data-tooltip="Facebook" href="https://www.facebook.com/profile.php?id=100005098655106" target="_blank">
+            <a class="tooltipped" data-position="top" data-tooltip="Facebook" href="https://www.facebook.com" target="_blank">
                 <img src="imagem/icone/escuro/facebook.png" alt="Facebook">
             </a>
         </div>
