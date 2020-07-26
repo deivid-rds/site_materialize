@@ -80,41 +80,21 @@
                 <ul id="img_principal_slider" class="slides">
 
                     <li>
-                        <img src="imagem/img1.jpg">
+                        <img src="imagem/siteConstrucao.png">
                         <div class="caption left-align">
-                            <h3>Livraria evangélica</h3>
+                            <h3>Página 1</h3>
                             <h5 class="light grey-text text-lighten-3">
-                                Leia um bom livro
+                                Descrição da página 1
                             </h5>
                         </div>
                     </li>
 
                     <li>
-                        <img src="imagem/img3.jpg">
+                        <img src="imagem/siteConstrucao.png">
                         <div class="caption left-align">
-                            <h3>Panela e forma</h3>
+                            <h3>Página 2</h3>
                             <h5 class="light grey-text text-lighten-3">
-                                Conheça nossas diversas opções
-                            </h5>
-                        </div>
-                    </li>
-
-                    <li>
-                        <img src="imagem/img2.jpeg">
-                        <div class="caption left-align">
-                            <h3>Natura</h3>
-                            <h5 class="light grey-text text-lighten-3">
-                                Bem Estar Bem
-                            </h5>
-                        </div>
-                    </li>
-
-                    <li>
-                        <img src="imagem/img4.jpeg">
-                        <div class="caption left-align">
-                            <h3>Boticário</h3>
-                            <h5 class="light grey-text text-lighten-3">
-                                A vida é bonita, mas pode ser linda
+                                Descrição da página 2
                             </h5>
                         </div>
                     </li>
@@ -128,11 +108,11 @@
                 <div class="col s12 m6 l6">
                     <div class="card hoverable">
                         <div class="card-image">
-                            <img class="img_principal" src="imagem/img7.jpg">
+                            <img class="img_principal" src="imagem/siteConstrucao.png">
                         </div>
                         <div class="card-content">
-                            <span class="card-title center">Livraria evangélica</span>
-                            <p>Bíblias, harpas, livros e mais.</p>
+                            <span class="card-title center">Título do produto</span>
+                            <p>Descrição do produto.</p>
                         </div>
                     </div>
                 </div>
@@ -140,11 +120,11 @@
                 <div class="col s12 m6 l6">
                     <div class="card hoverable">
                         <div class="card-image">
-                            <img class="img_principal" src="imagem/img6.jpg">
+                            <img class="img_principal" src="imagem/siteConstrucao.png">
                         </div>
                         <div class="card-content">
-                            <span class="card-title center">Panela e forma</span>
-                            <p>Panelas, formas, bules e mais.</p>
+                            <span class="card-title center">Título do produto</span>
+                            <p>Descrição do produto.</p>
                         </div>
                     </div>
                 </div>
@@ -152,11 +132,11 @@
                 <div class="col s12 m6 l6">
                     <div class="card hoverable">
                         <div class="card-image">
-                            <img class="img_principal" src="imagem/img8.jpg">
+                            <img class="img_principal" src="imagem/siteConstrucao.png">
                         </div>
                         <div class="card-content">
-                            <span class="card-title center">Natura</span>
-                            <p>Toda a gama de opções Natura.</p>
+                            <span class="card-title center">Título do produto</span>
+                            <p>Descrição do produto.</p>
                         </div>
                     </div>
                 </div>
@@ -164,11 +144,11 @@
                 <div class="col s12 m6 l6">
                     <div class="card hoverable">
                         <div class="card-image">
-                            <img class="img_principal" src="imagem/img5.jpg">
+                            <img class="img_principal" src="imagem/siteConstrucao.png">
                         </div>
                         <div class="card-content">
-                            <span class="card-title center">Boticário</span>
-                            <p>O universo Boticário próximo de você.</p>
+                            <span class="card-title center">Título do produto</span>
+                            <p>Descrição do produto.</p>
                         </div>
                     </div>
                 </div>
