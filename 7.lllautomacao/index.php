@@ -46,7 +46,7 @@
             <!-- Redes Sociais -->
             <!-- Tooltipped é o hint -->
             <!-- Whatsapp -->
-            <a class="tooltipped" data-position="top" data-tooltip="Whatsapp" href="https://api.whatsapp.com/send?phone=+55019997854323&text=Olá, tudo bem?" target="_blank">
+            <a class="tooltipped" data-position="top" data-tooltip="Whatsapp" href="https://api.whatsapp.com/send?phone=+55019999999999&text=Olá, tudo bem?" target="_blank">
                 <img src="imagem/icone/escuro/whatsapp.png" alt="Whatsapp">
             </a>
             <!-- Facebook -->
@@ -241,7 +241,7 @@
 
             <!-- Telefone -->
             <h5 class="espaco_acima">Telefone</h5>
-            <a class="hover-laranja cor-padrao" href="tel:19997854323">(19) 9 9785-4323</a>
+            <a class="hover-laranja cor-padrao" href="tel:19999999999">(19) 9 9999-9999</a>
 
             <!-- E-mail -->
             <h5 class="espaco_acima">E-mail</h5>
