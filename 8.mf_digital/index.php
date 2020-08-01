@@ -10,8 +10,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="Modelo que mostra um site em construção.">
-    <meta name="keywords" content="modelo, site, programação, palavras-chave">
+    <meta name="description" content="Somos uma empresa de Marketing Digital e temos o objetivo de facilitar 
+                                      seu negócio com Arte Digital, Gestão de Redes Sociais, Cartões, Panfletos, 
+                                      Banners, Logomarca e Adesivos.">
+    <meta name="keywords" content="marketing, arte digital, gestão de rede sociai, cartões, panfletos, banners, 
+                                   cartões fidelidade, adesivos, cardápios, digital influencer, logomarca">
 
     <!-- Materialize CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
@@ -26,7 +29,7 @@
     <link rel="stylesheet" href="/css/estilo.css">
 
     <!-- Título -->
-    <title>Site em Construção</title>
+    <title>MF Marketing Digital</title>
 
 </head>
 
