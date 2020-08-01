@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src="http://emporiobelem.com.br/imagem/logo.png" alt="Logo">
+  <img  src="https://lh3.googleusercontent.com/9OeU3wRuKenumwu2N5o72Y6b40Q2LS-tHmXGPOhN042Pmg-IcCMb9W-e97CoB06UeQ=w200-h200" alt="Logo">
 </p>
 
 <h1 align="center">lll Automação<h1>
