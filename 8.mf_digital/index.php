@@ -48,12 +48,16 @@
             <!-- Redes Sociais -->
             <!-- Tooltipped é o hint -->
             <!-- Whatsapp -->
-            <a class="tooltipped" data-position="top" data-tooltip="Whatsapp" href="https://api.whatsapp.com/send?phone=+55019999999999&text=Olá, tudo bem?" target="_blank">
+            <a class="tooltipped" data-position="top" data-tooltip="Whatsapp" href="https://api.whatsapp.com/send?phone=+55019988368289&text=Olá, tudo bem?" target="_blank">
                 <img src="imagem/icone/escuro/whatsapp.png" alt="Whatsapp">
             </a>
             <!-- Facebook -->
-            <a class="tooltipped" data-position="top" data-tooltip="Facebook" href="https://www.facebook.com" target="_blank">
+            <a class="tooltipped" data-position="top" data-tooltip="Facebook" href="https://m.facebook.com/MFmktdital/" target="_blank">
                 <img src="imagem/icone/escuro/facebook.png" alt="Facebook">
+            </a>
+            <!-- Instagram -->
+            <a class="tooltipped" data-position="top" data-tooltip="Instagram" href="https://www.instagram.com/agenciamf__/" target="_blank">
+                <img src="imagem/icone/escuro/instagram.png" alt="Instagram">
             </a>
         </div>
 
