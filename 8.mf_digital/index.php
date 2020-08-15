@@ -40,10 +40,10 @@
     <!-- TOPO DA PÁGINA -->
 
     <!-- NAVBAR -->
-    <nav class="nav-extended purple accent-4">
+    <nav class="nav-extended grey lighten-4">
 
         <div class="nav-wrapper center">
-            <img style="margin-top: 25px;" src="imagem/logo.png" alt="Logo"><br>
+            <img style="margin-top: 25px;" src="imagem/logo.svg" alt="Logo"><br>
 
             <!-- Redes Sociais -->
             <!-- Tooltipped é o hint -->
