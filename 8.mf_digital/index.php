@@ -241,11 +241,11 @@
 
             <!-- Telefone -->
             <h5 class="espaco_acima">Telefone</h5>
-            <a class="hover-laranja cor-padrao" href="tel:19988368289">(19) 9 8836-8289</a>
+            <a class="hover-verde cor-padrao" href="tel:19988368289">(19) 9 8836-8289</a>
 
             <!-- E-mail -->
             <h5 class="espaco_acima">E-mail</h5>
-            <a class="hover-laranja cor-padrao" href="mailto:messias@agenciamf.com">
+            <a class="hover-verde cor-padrao" href="mailto:messias@agenciamf.com">
                 messias@agenciamf.com
             </a>
 

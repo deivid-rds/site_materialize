@@ -112,9 +112,9 @@ div#sobre h5.espaco_acima
 }
 
 /* Mudar cor do hover */
-a.hover-laranja:hover
+a.hover-verde:hover
 {
-    color: #e38a17;
+    color: #00bfa5;
 }
 
 /* Endereço para letra normal (vem como itálico) */
