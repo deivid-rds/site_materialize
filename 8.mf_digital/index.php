@@ -241,12 +241,12 @@
 
             <!-- Telefone -->
             <h5 class="espaco_acima">Telefone</h5>
-            <a class="hover-laranja cor-padrao" href="tel:19999999999">(19) 9 9999-9999</a>
+            <a class="hover-laranja cor-padrao" href="tel:19988368289">(19) 9 8836-8289</a>
 
             <!-- E-mail -->
             <h5 class="espaco_acima">E-mail</h5>
-            <a class="hover-laranja cor-padrao" href="mailto:site_construcao@site.com.br">
-                site_construcao@site.com.br
+            <a class="hover-laranja cor-padrao" href="mailto:messias@agenciamf.com">
+                messias@agenciamf.com
             </a>
 
         </div>
