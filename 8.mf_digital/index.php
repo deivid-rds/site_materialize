@@ -273,9 +273,10 @@
     <div id="sobre" class="col s12 container">
 
         <h5 class="espaco_acima">Sobre nós</h5>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto molestias non quidem eligendi
-            error recusandae aspernatur at voluptate! Nisi, assumenda? Tenetur consequuntur soluta, recusandae placeat
-            consequatur inventore cupiditate quo?
+        <p>Somos uma empresa de Marketing Digital e temos o objetivo de facilitar
+           seu negócio com Arte Digital, Gestão de Redes Sociais, Cartões de Visita, 
+           Panfletos, Banners, Logomarca, Google Adwords, Instagram e Facebook ADS,
+           Consultoria e Adesivos.
         </p>
 
     </div>
