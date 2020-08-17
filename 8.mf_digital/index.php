@@ -86,21 +86,21 @@
                 <ul id="img_principal_slider" class="slides">
 
                     <li>
-                        <img src="imagem/siteConstrucao.png">
+                        <img src="imagem/capa1.jpg">
                         <div class="caption left-align">
-                            <h3>Página 1</h3>
+                            <h3>Tenha resultados</h3>
                             <h5 class="light grey-text text-lighten-3">
-                                Descrição da página 1
+                                Deixe que administremos suas redes sociais e tenha resultados concretos
                             </h5>
                         </div>
                     </li>
 
                     <li>
-                        <img src="imagem/siteConstrucao.png">
+                        <img src="imagem/capa2.jpg">
                         <div class="caption left-align">
-                            <h3>Página 2</h3>
+                            <h3>Fotografia</h3>
                             <h5 class="light grey-text text-lighten-3">
-                                Descrição da página 2
+                                Tenha as melhores fotos para seu negócio
                             </h5>
                         </div>
                     </li>
@@ -114,11 +114,11 @@
                 <div class="col s12 m6 l6">
                     <div class="card hoverable">
                         <div class="card-image">
-                            <img class="img_principal" src="imagem/siteConstrucao.png">
+                            <img class="img_principal" src="imagem/pilares.jpg">
                         </div>
                         <div class="card-content">
-                            <span class="card-title center">Descrição 1</span>
-                            <p>Descrição da parte 1 vem aqui.</p>
+                            <span class="card-title center">Pilares da Estratégia Digital</span>
+                            <p>Encontrabilidade, interação e conteúdo.</p>
                         </div>
                     </div>
                 </div>
@@ -126,11 +126,11 @@
                 <div class="col s12 m6 l6">
                     <div class="card hoverable">
                         <div class="card-image">
-                            <img class="img_principal" src="imagem/siteConstrucao.png">
+                            <img class="img_principal" src="imagem/decole.jpg">
                         </div>
                         <div class="card-content">
-                            <span class="card-title center">Descrição 2</span>
-                            <p>Descrição da parte 2 vem aqui.</p>
+                            <span class="card-title center">Decole junto com o seu negócio</span>
+                            <p>Invista em Markting Digital com a Agência MF.</p>
                         </div>
                     </div>
                 </div>
