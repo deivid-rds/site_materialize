@@ -11,10 +11,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="Somos uma empresa de Marketing Digital e temos o objetivo de facilitar 
-                                      seu negócio com Arte Digital, Gestão de Redes Sociais, Cartões, Panfletos, 
-                                      Banners, Logomarca e Adesivos.">
-    <meta name="keywords" content="marketing, arte digital, gestão de rede sociai, cartões, panfletos, banners, 
-                                   cartões fidelidade, adesivos, cardápios, digital influencer, logomarca">
+                                      seu negócio com Arte Digital, Gestão de Redes Sociais, Cartões de Visita, 
+                                      Panfletos, Banners, Logomarca, Google Adwords, Instagram e Facebook ADS,
+                                      Consultoria e Adesivos.">
+    <meta name="keywords" content="marketing, arte digital, gestão de redes sociais, cartões de visita, panfletos, 
+                                   banners, cartões fidelidade, adesivos, cardápios, digital influencer, logomarca,
+                                   instagram ads, facebook ads, google adwords, consultoria">
 
     <!-- Materialize CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
@@ -108,6 +110,29 @@
                 </ul>
             </div>
 
+            <!-- Serviços oferecidos -->
+            <div class="container grey lighten-4">
+                <ul class="collapsible">
+                    <li class="active">
+                        <div class="collapsible-header grey lighten-3"><i class="material-icons">shop</i>Produtos</div>
+                        <div class="collapsible-body">
+                            <p>- Banners</p>
+                            <p>- Cartões de visita</p>
+                            <p>- Panfletos</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="collapsible-header grey lighten-3"><i class="material-icons">show_chart</i>Serviços</div>
+                        <div class="collapsible-body">
+                            <p>- Gestão de Redes Sociais</p>
+                            <p>- Google Adwords</p>
+                            <p>- Instagram e Facebook ADS</p>
+                            <p>- Consultoria</p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
             <!-- Cards principal -->
             <div id="card_principal" class="container">
 
@@ -192,7 +217,7 @@
                 <div class="carousel-item">
                     <img class="materialboxed" src="/imagem/siteConstrucao.png">
                 </div>
-               
+
 
             </div>
         </div>
@@ -237,9 +262,9 @@
     <div id="sobre" class="col s12 container">
 
         <h5 class="espaco_acima">Sobre nós</h5>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto molestias non quidem eligendi 
-           error recusandae aspernatur at voluptate! Nisi, assumenda? Tenetur consequuntur soluta, recusandae placeat 
-           consequatur inventore cupiditate quo?
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto molestias non quidem eligendi
+            error recusandae aspernatur at voluptate! Nisi, assumenda? Tenetur consequuntur soluta, recusandae placeat
+            consequatur inventore cupiditate quo?
         </p>
 
     </div>
@@ -260,13 +285,13 @@
         M.AutoInit();
     </script>
 
-    <!-- Carrossel da Galeria -->
     <script>
         $(document).ready(function() {
             $('.tabs').tabs(); // Funcionamento das abas
             $('.slider').slider(); // Slider da página inicial (imagem com as frases)
             $('.materialboxed').materialbox(); // Para as imagens serem expandidas
             $('.tooltipped').tooltip(); // O 'hint' nas Redes Sociais
+            $('.collapsible').collapsible(); // Produtos e Serviços na tela inicial
 
             // Chamar links do Menu do rodapé 
             $('.links-rodape > .links > a').on('click', function(e) {
