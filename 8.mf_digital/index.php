@@ -273,10 +273,9 @@
     <div id="sobre" class="col s12 container">
 
         <h5 class="espaco_acima">Sobre nós</h5>
-        <p>Somos uma empresa de Marketing Digital e temos o objetivo de facilitar
-           seu negócio com Arte Digital, Gestão de Redes Sociais, Cartões de Visita, 
-           Panfletos, Banners, Logomarca, Google Adwords, Instagram e Facebook ADS,
-           Consultoria e Adesivos.
+        <p>
+            Somos uma agência especializada em marketing digital, criação de arte e produtos gráficos.
+            Estamos a 3 anos no mercado ajudando empresas a ganharem visibilidade através das mídias sociais.
         </p>
 
     </div>
