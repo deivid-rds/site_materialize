@@ -38,7 +38,7 @@
     <!-- TOPO DA PÁGINA -->
 
     <!-- NAVBAR -->
-    <nav class="nav-extended purple accent-4">
+    <nav class="nav-extended cyan lighten-5">
 
         <div class="nav-wrapper center">
             <img style="margin-top: 25px;" src="imagem/logo.png" alt="Logo"><br>
