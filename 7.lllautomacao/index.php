@@ -80,7 +80,7 @@
                 <ul id="img_principal_slider" class="slides">
 
                     <li>
-                        <img src="imagem/siteConstrucao.png">
+                        <img src="imagem/img2.jpg">
                         <div class="caption left-align">
                             <h3>Página 1</h3>
                             <h5 class="light grey-text text-lighten-3">
@@ -90,7 +90,7 @@
                     </li>
 
                     <li>
-                        <img src="imagem/siteConstrucao.png">
+                        <img src="imagem/img3.jpg">
                         <div class="caption left-align">
                             <h3>Página 2</h3>
                             <h5 class="light grey-text text-lighten-3">
@@ -108,7 +108,7 @@
                 <div class="col s12 m6 l6">
                     <div class="card hoverable">
                         <div class="card-image">
-                            <img class="img_principal" src="imagem/siteConstrucao.png">
+                            <img class="img_principal" src="imagem/img1.jpg">
                         </div>
                         <div class="card-content">
                             <span class="card-title center">Orçamento</span>
@@ -121,7 +121,7 @@
                 <div class="col s12 m6 l6">
                     <div class="card hoverable">
                         <div class="card-image">
-                            <img class="img_principal" src="imagem/siteConstrucao.png">
+                            <img class="img_principal" src="imagem/img4.jpg">
                         </div>
                         <div class="card-content">
                             <span class="card-title center">Pagamento</span>
