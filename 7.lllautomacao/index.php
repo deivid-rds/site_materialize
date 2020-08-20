@@ -59,6 +59,7 @@
         <div class="nav-wrapper" style="padding: 0 10% 0 10%">
             <ul id="tabSelector" class="tabs tabs-transparent tabs-fixed-width">
                 <li class="tab"><a href="#inicio" class="active">Início</a></li>
+                <li class="tab"><a href="#servico">Serviços</a></li>
                 <li class="tab"><a href="#galeria">Galeria</a></li>
                 <li class="tab"><a href="#contato">Contato</a></li>
                 <li class="tab"><a href="#localizacao">Localização</a></li>
@@ -171,6 +172,16 @@
                 </div>
 
             </div>
+
+        </div>
+    </div>
+
+    <!-- ABA SERVIÇOS -->
+    <div id="servico" class="col s12 container">
+        <div class="row">
+
+            <!-- Telefone -->
+            <h5 class="espaco_acima">Cabines Primárias</h5>
 
         </div>
     </div>
