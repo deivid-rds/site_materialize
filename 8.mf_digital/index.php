@@ -10,10 +10,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="Somos uma empresa de Marketing Digital e temos o objetivo de facilitar 
-                                      seu negócio com Arte Digital, Gestão de Redes Sociais, Cartões de Visita, 
-                                      Panfletos, Banners, Logomarca, Google Adwords, Instagram e Facebook ADS,
-                                      Consultoria e Adesivos.">
+    <meta name="description" content="Somos uma agência especializada em marketing digital, criação de arte e 
+                                      produtos gráficos.">
     <meta name="keywords" content="marketing, arte digital, gestão de redes sociais, cartões de visita, panfletos, 
                                    banners, cartões fidelidade, adesivos, cardápios, digital influencer, logomarca,
                                    instagram ads, facebook ads, google adwords, consultoria">
