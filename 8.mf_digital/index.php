@@ -87,22 +87,18 @@
 
                     <li>
                         <img src="imagem/capa1.jpg">
-                        <div class="caption left-align">
-                            <h3>Tenha resultados</h3>
-                            <h5 class="light grey-text text-lighten-3">
-                                Deixe que administremos suas redes sociais e tenha resultados concretos
-                            </h5>
-                        </div>
                     </li>
 
                     <li>
                         <img src="imagem/capa2.jpg">
-                        <div class="caption left-align">
-                            <h3>Fotografia</h3>
-                            <h5 class="light grey-text text-lighten-3">
-                                Tenha as melhores fotos para seu negócio
-                            </h5>
-                        </div>
+                    </li>
+
+                    <li>
+                        <img src="imagem/capa3.jpg">
+                    </li>
+
+                    <li>
+                        <img src="imagem/capa4.jpg">
                     </li>
 
                 </ul>
@@ -131,34 +127,6 @@
                 </ul>
             </div>
 
-            <!-- Cards principal -->
-            <div id="card_principal" class="container">
-
-                <div class="col s12 m6 l6">
-                    <div class="card hoverable">
-                        <div class="card-image">
-                            <img class="img_principal" src="imagem/pilares.jpg">
-                        </div>
-                        <div class="card-content">
-                            <span class="card-title center">Pilares da Estratégia Digital</span>
-                            <p>Encontrabilidade, interação e conteúdo.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col s12 m6 l6">
-                    <div class="card hoverable">
-                        <div class="card-image">
-                            <img class="img_principal" src="imagem/decole.jpg">
-                        </div>
-                        <div class="card-content">
-                            <span class="card-title center">Decole junto com o seu negócio</span>
-                            <p>Invista em Markting Digital com a Agência MF.</p>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
         </div>
     </div>
 
@@ -167,65 +135,26 @@
 
         <!-- Produtos -->
         <div class="wrapper-carousel">
-            <h5 class="espaco_acima">Produtos</h5>
+            <h5 class="espaco_acima">Marketing</h5>
 
             <div id="carousel-1" class="carousel">
 
                 <!-- É preciso ter dentro do elemento da classe .carousel um elemento .carousel-item, mesmo que vazio, para que ele possa fazer os cálculos. -->
 
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img10.jpg">
+                    <img class="materialboxed" src="/imagem/card1.jpg">
                 </div>
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img11.jpg">
+                    <img class="materialboxed" src="/imagem/card2.jpg">
                 </div>
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img12.jpg">
+                    <img class="materialboxed" src="/imagem/card3.jpg">
                 </div>
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img14.jpg">
+                    <img class="materialboxed" src="/imagem/card4.jpg">
                 </div>
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img15.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img16.jpg">
-                </div>
-
-            </div>
-        </div>
-
-        <!-- Serviços -->
-        <div class="wrapper-carousel">
-            <h5 class="espaco_acima">Serviços</h5>
-
-            <div id="carousel-2" class="carousel">
-
-                <!-- É preciso ter dentro do elemento da classe .carousel um elemento .carousel-item, mesmo que vazio, para que ele possa fazer os cálculos. -->
-
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img1.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img2.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img3.png">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img4.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img5.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img6.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img7.jpg">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/img8.jpg">
+                    <img class="materialboxed" src="/imagem/card5.jpg">
                 </div>
 
             </div>
