@@ -10,7 +10,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="Modelo que mostra um site em construção.">
+    <meta name="description" content="Site com informações da Kings Barbearia">
     <meta name="keywords" content="modelo, site, programação, palavras-chave">
 
     <!-- Materialize CSS -->
@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="/css/estilo.css">
 
     <!-- Título -->
-    <title>Site em Construção</title>
+    <title>Kings Barbearia</title>
 
 </head>
 
