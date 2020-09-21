@@ -10,7 +10,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="Site com informações da King's Barbearia">
+    <meta name="description" content="King's Barbearia - Cabelo, Barba e Produtos">
     <meta name="keywords" content="corte de cabelo, cabelereiro, barba, barbeiro, barbearia">
 
     <!-- Materialize CSS -->
@@ -37,7 +37,7 @@
     <!-- TOPO DA PÁGINA -->
 
     <!-- NAVBAR -->
-    <nav class="nav-extended purple accent-4">
+    <nav class="nav-extended blue lighten-3">
 
         <div class="nav-wrapper center">
             <img style="margin-top: 25px;" src="imagem/logo.png" alt="Logo"><br>
@@ -45,12 +45,12 @@
             <!-- Redes Sociais -->
             <!-- Tooltipped é o hint -->
             <!-- Whatsapp -->
-            <a class="tooltipped" data-position="top" data-tooltip="Whatsapp" href="https://api.whatsapp.com/send?phone=+55019999999999&text=Olá, tudo bem?" target="_blank">
+            <a class="tooltipped" data-position="top" data-tooltip="Whatsapp" href="https://api.whatsapp.com/send?phone=+55019996011502&text=Olá, tudo bem? Qual horário teria disponível?" target="_blank">
                 <img src="imagem/icone/escuro/whatsapp.png" alt="Whatsapp">
             </a>
-            <!-- Facebook -->
-            <a class="tooltipped" data-position="top" data-tooltip="Facebook" href="https://www.facebook.com" target="_blank">
-                <img src="imagem/icone/escuro/facebook.png" alt="Facebook">
+            <!-- Instagram -->
+            <a class="tooltipped" data-position="top" data-tooltip="Instagram" href="https://www.instagram.com/mathias_hairdesigner/" target="_blank">
+                <img src="imagem/icone/escuro/instagram.png" alt="Instagram">
             </a>
         </div>
 
