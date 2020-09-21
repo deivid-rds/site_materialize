@@ -10,8 +10,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="Site com informações da Kings Barbearia">
-    <meta name="keywords" content="modelo, site, programação, palavras-chave">
+    <meta name="description" content="Site com informações da King's Barbearia">
+    <meta name="keywords" content="corte de cabelo, cabelereiro, barba, barbeiro, barbearia">
 
     <!-- Materialize CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="/css/estilo.css">
 
     <!-- Título -->
-    <title>Kings Barbearia</title>
+    <title>King's Barbearia</title>
 
 </head>
 
