@@ -248,12 +248,12 @@
 
             <!-- Telefone -->
             <h5 class="espaco_acima">Telefone</h5>
-            <a class="hover-laranja cor-padrao" href="tel:19999999999">(19) 9 9999-9999</a>
+            <a class="hover-laranja cor-padrao" href="tel:19996011502">(19) 9 9601-1502 </a>
 
             <!-- E-mail -->
             <h5 class="espaco_acima">E-mail</h5>
-            <a class="hover-laranja cor-padrao" href="mailto:site_construcao@site.com.br">
-                site_construcao@site.com.br
+            <a class="hover-laranja cor-padrao" href="mailto:mathias@kingsbarbearia.com.br">
+                mathias@kingsbarbearia.com.br
             </a>
 
         </div>
