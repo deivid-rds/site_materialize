@@ -79,21 +79,21 @@
                 <ul id="img_principal_slider" class="slides">
 
                     <li>
-                        <img src="imagem/siteConstrucao.png">
+                        <img src="imagem/capa_img1.jpg">
                         <div class="caption left-align">
-                            <h3>Página 1</h3>
+                            <h3>Cabelo, Barba e Produtos</h3>
                             <h5 class="light grey-text text-lighten-3">
-                                Descrição da página 1
+                                Um tratamento realmente diferenciado
                             </h5>
                         </div>
                     </li>
 
                     <li>
-                        <img src="imagem/siteConstrucao.png">
+                        <img src="imagem/capa_img2.jpg">
                         <div class="caption left-align">
-                            <h3>Página 2</h3>
+                            <h3>Conheça-nos</h3>
                             <h5 class="light grey-text text-lighten-3">
-                                Descrição da página 2
+                                Queremos que sinta-se bem
                             </h5>
                         </div>
                     </li>
@@ -107,11 +107,11 @@
                 <div class="col s12 m6 l6">
                     <div class="card hoverable">
                         <div class="card-image">
-                            <img class="img_principal" src="imagem/siteConstrucao.png">
+                            <img class="img_principal" src="imagem/card_cabelo.jpg">
                         </div>
                         <div class="card-content">
-                            <span class="card-title center">Descrição 1</span>
-                            <p>Descrição da parte 1 vem aqui.</p>
+                            <span class="card-title center">Cabelo</span>
+                            <p>Corte, pezinho e penteado.</p>
                         </div>
                     </div>
                 </div>
@@ -119,11 +119,35 @@
                 <div class="col s12 m6 l6">
                     <div class="card hoverable">
                         <div class="card-image">
-                            <img class="img_principal" src="imagem/siteConstrucao.png">
+                            <img class="img_principal" src="imagem/card_barba.jpg">
                         </div>
                         <div class="card-content">
-                            <span class="card-title center">Descrição 2</span>
-                            <p>Descrição da parte 2 vem aqui.</p>
+                            <span class="card-title center">Barba</span>
+                            <p>Reparo, alinhamento e eliminação.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col s12 m6 l6">
+                    <div class="card hoverable">
+                        <div class="card-image">
+                            <img class="img_principal" src="imagem/card_produto1.jpg">
+                        </div>
+                        <div class="card-content">
+                            <span class="card-title center">Produtos de cabelo e barba</span>
+                            <p>Gel e fixador.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col s12 m6 l6">
+                    <div class="card hoverable">
+                        <div class="card-image">
+                            <img class="img_principal" src="imagem/card_produto2.jpg">
+                        </div>
+                        <div class="card-content">
+                            <span class="card-title center">Vestimenta</span>
+                            <p>Camisetas com estilo.</p>
                         </div>
                     </div>
                 </div>
