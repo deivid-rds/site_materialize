@@ -106,59 +106,67 @@
             <!-- Cards principal -->
             <div id="card_principal" class="container">
 
-                <div class="col s12 m6 l6">
-                    <div class="card hoverable">
-                        <div class="card-image">
-                            <img class="img_principal" src="imagem/img1.jpg">
-                        </div>
-                        <div class="card-content">
-                            <span class="card-title center">Orçamento</span>
-                            <p>Todos nossos orçamentos são gratuitos, sem compromisso e feitos à partir de duas
-                                informações: consumo médio anual em KWh e cidade que será instalado o sistema.</p>
+                <div class="col">
+
+                    <div class="col s12 m6 l6">
+                        <div class="card hoverable">
+                            <div class="card-image">
+                                <img class="img_principal" src="imagem/img1.jpg">
+                            </div>
+                            <div class="card-content">
+                                <span class="card-title center">Orçamento</span>
+                                <p>Todos nossos orçamentos são gratuitos, sem compromisso e feitos à partir de duas
+                                    informações: consumo médio anual em KWh e cidade que será instalado o sistema.</p>
+                            </div>
                         </div>
                     </div>
+
+                    <div class="col s12 m6 l6">
+                        <div class="card hoverable">
+                            <div class="card-image">
+                                <img class="img_principal" src="imagem/img4.jpg">
+                            </div>
+                            <div class="card-content">
+                                <span class="card-title center">Pagamento</span>
+                                <p>Nossa empresa é correspondente bancária certificada pela FEBRABAN, dessa forma
+                                    financiamos seu sistema 100%, sem burocracia em até 60x no boleto.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="col">
+
+                    <div class="col s12 m6 l6">
+                        <div class="card hoverable">
+                            <div class="card-image">
+                                <img class="img_principal" src="imagem/siteConstrucao.png">
+                            </div>
+                            <div class="card-content">
+                                <span class="card-title center">Instalação</span>
+                                <p>Contamos com engenharia e equipe de instalação próprias, com profissionais capacitados
+                                    para atender residências, comércios e indústrias.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col s12 m6 l6">
+                        <div class="card hoverable">
+                            <div class="card-image">
+                                <img class="img_principal" src="imagem/siteConstrucao.png">
+                            </div>
+                            <div class="card-content">
+                                <span class="card-title center">Homologação</span>
+                                <p>Apresentamos e acompanhamos seu projeto em todo processo de homologação junto a
+                                    concessionária de energia elétrica de sua região.</p>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
 
                 <div class="col s12 m6 l6">
-                    <div class="card hoverable">
-                        <div class="card-image">
-                            <img class="img_principal" src="imagem/img4.jpg">
-                        </div>
-                        <div class="card-content">
-                            <span class="card-title center">Pagamento</span>
-                            <p>Nossa empresa é correspondente bancária certificada pela FEBRABAN, dessa forma
-                                financiamos seu sistema 100%, sem burocracia em até 60x no boleto.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col s12 m6 l6">
-                    <div class="card hoverable">
-                        <div class="card-image">
-                            <img class="img_principal" src="imagem/siteConstrucao.png">
-                        </div>
-                        <div class="card-content">
-                            <span class="card-title center">Instalação</span>
-                            <p>Contamos com engenharia e equipe de instalação próprias, com profissionais capacitados
-                                para atender residências, comércios e indústrias.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col s12 m6 l6">
-                    <div class="card hoverable">
-                        <div class="card-image">
-                            <img class="img_principal" src="imagem/siteConstrucao.png">
-                        </div>
-                        <div class="card-content">
-                            <span class="card-title center">Homologação</span>
-                            <p>Apresentamos e acompanhamos seu projeto em todo processo de homologação junto a
-                                concessionária de energia elétrica de sua região.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col s12 m12 l12">
                     <div class="card hoverable">
                         <div class="card-image">
                             <img class="img_principal" src="imagem/siteConstrucao.png">
@@ -181,12 +189,14 @@
         <div class="row">
 
             <div class="row">
+
                 <!-- Cabines Primárias -->
                 <div class="espaco_acima col s12 m6">
                     <div class="card blue-grey darken-1">
                         <div class="card-content white-text">
                             <span class="card-title">Cabines Primárias</span>
-                            <p>As empresas de manutenção de cabine primária fazem de forma corretiva ou...</p>
+                            <p>As empresas de manutenção de cabine primária fazem de forma corretiva ou preventiva
+                               esta manutenção.</p>
                         </div>
                         <div class="card-action">
                             <a class="modal-trigger" href="#cabine">Saiba mais</a>
@@ -197,19 +207,19 @@
                             <div class="modal-content">
                                 <h4>Cabines Primárias</h4>
 
-                                <p>As empresas de manutenção de cabine primária fazem de forma corretiva ou preventiva 
-                                   esta manutenção. Quando preventiva, é utilizada para que o equipamento mantenha-se 
-                                   conservado ou para restaurar algum item programado da cabine, e tem o intuito de 
-                                   mantê-la em boas condições de operação para que continue funcionando de forma 
-                                   adequada. Esta manutenção é feita de acordo com o que o fabricante ou o engenheiro 
-                                   da empresa estabelece em relação ao produto. Quando as empresas de manutenção de 
-                                   cabine primária fazem a manutenção corretiva, é feita para quando um equipamento 
-                                   está indisponível ou não para uso, para que seja reparado algum dano ou defeito.</p>
+                                <p>As empresas de manutenção de cabine primária fazem de forma corretiva ou preventiva
+                                    esta manutenção. Quando preventiva, é utilizada para que o equipamento mantenha-se
+                                    conservado ou para restaurar algum item programado da cabine, e tem o intuito de
+                                    mantê-la em boas condições de operação para que continue funcionando de forma
+                                    adequada. Esta manutenção é feita de acordo com o que o fabricante ou o engenheiro
+                                    da empresa estabelece em relação ao produto. Quando as empresas de manutenção de
+                                    cabine primária fazem a manutenção corretiva, é feita para quando um equipamento
+                                    está indisponível ou não para uso, para que seja reparado algum dano ou defeito.</p>
 
-                                <p>As empresas de manutenção de cabine primária devem fazer também o relatório de 
-                                   análise, para definir o estado dos equipamentos e os valores de ensaios físico-
-                                   químicos. Se houver alguma alteração de acordo com o relatório anterior, deve ser 
-                                   analisado se o equipamento está dentro dos valores pré-estabelecidos.</p>
+                                <p>As empresas de manutenção de cabine primária devem fazer também o relatório de
+                                    análise, para definir o estado dos equipamentos e os valores de ensaios físico-
+                                    químicos. Se houver alguma alteração de acordo com o relatório anterior, deve ser
+                                    analisado se o equipamento está dentro dos valores pré-estabelecidos.</p>
 
                                 <p>Alguns dos serviços feitos pelas empresas de manutenção de Cabine Primária são:</p>
                                 <ol>
@@ -237,7 +247,8 @@
                     <div class="card blue-grey darken-1">
                         <div class="card-content white-text">
                             <span class="card-title">Laudos de Medição de SPDA</span>
-                            <p>O Laudo de SPDA é um relatório técnico das inspeções e medições realizadas no...</p>
+                            <p>O Laudo de SPDA é um relatório técnico das inspeções e medições realizadas no sistema
+                               de proteção contra descargas atmosféricas.</p>
                         </div>
                         <div class="card-action">
                             <a class="modal-trigger" href="#laudospda">Saiba mais</a>
@@ -248,9 +259,9 @@
                             <div class="modal-content">
                                 <h4>Laudos de Medição de SPDA</h4>
 
-                                <p>O Laudo de SPDA é um relatório técnico das inspeções e medições realizadas no sistema 
-                               de proteção contra descargas atmosféricas, que atesta a sua eficiência com base na ABNT 
-                               NBR 5419:2015.</p>
+                                <p>O Laudo de SPDA é um relatório técnico das inspeções e medições realizadas no sistema
+                                    de proteção contra descargas atmosféricas, que atesta a sua eficiência com base na ABNT
+                                    NBR 5419:2015.</p>
 
                             </div>
                             <div class="modal-footer">
@@ -260,15 +271,18 @@
 
                     </div>
                 </div>
+
             </div>
 
             <div class="row">
+
                 <!-- Laudos de Medição de Aterramento -->
                 <div class="col s12 m6">
                     <div class="card blue-grey darken-1">
                         <div class="card-content white-text">
                             <span class="card-title">Laudos de Medição de Aterramento</span>
-                            <p>Fazer o aterramento de um imóvel, seja comercial ou residencial, é uma solução de...</p>
+                            <p>Fazer o aterramento de um imóvel, seja comercial ou residencial, é uma solução de 
+                               segurança contra descargas elétricas atmosféricas.</p>
                         </div>
                         <div class="card-action">
                             <a class="modal-trigger" href="#laudoater">Saiba mais</a>
@@ -279,19 +293,19 @@
                             <div class="modal-content">
                                 <h4>Laudos de Medição de Aterramento</h4>
 
-                                <p>Fazer o aterramento de um imóvel, seja comercial ou residencial, é uma solução de 
-                                   segurança contra descargas elétricas atmosféricas. Com um projeto de SPDA estrutural 
-                                   adequado, a energia captada pelos para-raios é conduzida pelas hastes de aterramento 
-                                   para serem dispersadas no solo, evitando danos elétricos que podem até ser fatais. 
-                                   Para atestar que instalação está adequada ao tamanho do imóvel e conseguir o AVCB, 
-                                   deve ser emitido o laudo técnico de aterramento.</p>
+                                <p>Fazer o aterramento de um imóvel, seja comercial ou residencial, é uma solução de
+                                    segurança contra descargas elétricas atmosféricas. Com um projeto de SPDA estrutural
+                                    adequado, a energia captada pelos para-raios é conduzida pelas hastes de aterramento
+                                    para serem dispersadas no solo, evitando danos elétricos que podem até ser fatais.
+                                    Para atestar que instalação está adequada ao tamanho do imóvel e conseguir o AVCB,
+                                    deve ser emitido o laudo técnico de aterramento.</p>
 
-                                <p>No entanto, esse laudo técnico de aterramento é muito mais do que a garantia de 
-                                   que o projeto de instalação e de proteção contra descargas elétricas atmosféricas 
-                                   está adequadamente executado: esse documento atesta a segurança da vida das 
-                                   pessoas e do patrimônio. Por essa razão, a análise da instalação e a posterior 
-                                   emissão do laudo técnico de aterramento devem ser feitos por uma empresa 
-                                   especializada em serviços de engenharia elétrica.
+                                <p>No entanto, esse laudo técnico de aterramento é muito mais do que a garantia de
+                                    que o projeto de instalação e de proteção contra descargas elétricas atmosféricas
+                                    está adequadamente executado: esse documento atesta a segurança da vida das
+                                    pessoas e do patrimônio. Por essa razão, a análise da instalação e a posterior
+                                    emissão do laudo técnico de aterramento devem ser feitos por uma empresa
+                                    especializada em serviços de engenharia elétrica.
                             </div>
                             <div class="modal-footer">
                                 <a href="#!" class="modal-close waves-effect waves-green btn-flat">Fechar</a>
@@ -306,7 +320,8 @@
                     <div class="card blue-grey darken-1">
                         <div class="card-content white-text">
                             <span class="card-title">Projetos de Instalações Elétricas</span>
-                            <p>Elaboramos projetos elétricos por métodos computacionais em conformidade com a...</p>
+                            <p>Elaboramos projetos elétricos por métodos computacionais em conformidade com a ABNT e
+                               normas internacionais.</p>
                         </div>
                         <div class="card-action">
                             <a class="modal-trigger" href="#projetoie">Saiba mais</a>
@@ -317,10 +332,10 @@
                             <div class="modal-content">
                                 <h4>Projetos de Instalações Elétricas</h4>
 
-                                <p>Elaboramos projetos elétricos por métodos computacionais em conformidade com a ABNT e 
-                                normas internacionais, de acordo com o tipo de projeto que está sendo realizado. 
-                                Dentre os tipos na área de engenharia elétrica, somos especializados principalmente nos 
-                                listados abaixo:</p>
+                                <p>Elaboramos projetos elétricos por métodos computacionais em conformidade com a ABNT e
+                                    normas internacionais, de acordo com o tipo de projeto que está sendo realizado.
+                                    Dentre os tipos na área de engenharia elétrica, somos especializados principalmente nos
+                                    listados abaixo:</p>
 
                                 <ol>
                                     <li>Projeto de SPDA</li>
@@ -342,15 +357,18 @@
 
                     </div>
                 </div>
+
             </div>
 
             <div class="row">
+
                 <!-- Montagem e Automação Elétrica -->
                 <div class="col s12 m6">
                     <div class="card blue-grey darken-1">
                         <div class="card-content white-text">
                             <span class="card-title">Montagem e Automação Elétrica</span>
-                            <p>Numa indústria são desenvolvidos projetos para que a rede elétrica dessa indústria...</p>
+                            <p>Numa indústria são desenvolvidos projetos para que a rede elétrica dessa indústria não 
+                               desenvolva problemas em sem desenvolvimento.</p>
                         </div>
                         <div class="card-action">
                             <a class="modal-trigger" href="#montagem">Saiba mais</a>
@@ -361,13 +379,13 @@
                             <div class="modal-content">
                                 <h4>Montagem e Automação Elétrica</h4>
 
-                                <p>Numa indústria são desenvolvidos projetos para que a rede elétrica dessa indústria 
-                                   não desenvolva problemas em sem desenvolvimento. Para que não ocorram esses 
-                                   problemas com a rede elétrica industrial são desenvolvidos projetos de montagem.</p>
+                                <p>Numa indústria são desenvolvidos projetos para que a rede elétrica dessa indústria
+                                    não desenvolva problemas em sem desenvolvimento. Para que não ocorram esses
+                                    problemas com a rede elétrica industrial são desenvolvidos projetos de montagem.</p>
 
-                                <p>A montagem elétrica industrial é responsável pelos procedimentos feitos desde a 
-                                   planta da indústria, até as adaptações frente às novas necessidades que surgem na 
-                                   linha de produção.</p>
+                                <p>A montagem elétrica industrial é responsável pelos procedimentos feitos desde a
+                                    planta da indústria, até as adaptações frente às novas necessidades que surgem na
+                                    linha de produção.</p>
 
                             </div>
                             <div class="modal-footer">
@@ -377,6 +395,7 @@
 
                     </div>
                 </div>
+
             </div>
 
         </div>
