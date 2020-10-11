@@ -46,7 +46,7 @@
             <!-- Redes Sociais -->
             <!-- Tooltipped é o hint -->
             <!-- Whatsapp -->
-            <a class="tooltipped" data-position="top" data-tooltip="Whatsapp" href="https://api.whatsapp.com/send?phone=+55019999999999&text=Olá, tudo bem?" target="_blank">
+            <a class="tooltipped" data-position="top" data-tooltip="Whatsapp" href="https://api.whatsapp.com/send?phone=+55019998540517&text=Olá, tudo bem?" target="_blank">
                 <img src="imagem/icone/escuro/whatsapp.png" alt="Whatsapp">
             </a>
             <!-- Facebook -->
@@ -83,9 +83,10 @@
                     <li>
                         <img src="imagem/img2.jpg">
                         <div class="caption left-align">
-                            <h3>Página 1</h3>
+                            <h3>Energia Solar</h3>
                             <h5 class="light grey-text text-lighten-3">
-                                Descrição da página 1
+                                Redução da emissão de CO2, economia de até 95% em sua conta de luz e conta de luz 
+                                protegida de aumentos na tarifa
                             </h5>
                         </div>
                     </li>
@@ -93,9 +94,9 @@
                     <li>
                         <img src="imagem/img3.jpg">
                         <div class="caption left-align">
-                            <h3>Página 2</h3>
+                            <h3>Serviços</h3>
                             <h5 class="light grey-text text-lighten-3">
-                                Descrição da página 2
+                                Para sua casa, empresa, condomínios e cooperativas
                             </h5>
                         </div>
                     </li>
@@ -114,9 +115,10 @@
                                 <img class="img_principal" src="imagem/img1.jpg">
                             </div>
                             <div class="card-content">
-                                <span class="card-title center">Orçamento</span>
-                                <p>Todos nossos orçamentos são gratuitos, sem compromisso e feitos à partir de duas
-                                    informações: consumo médio anual em KWh e cidade que será instalado o sistema.</p>
+                                <span class="card-title center">1</span>
+                                <p>Durante o dia a luz solar (radiação) proveniente do sol, atinge os painéis, é 
+                                   absorvida pelas células fotovoltaicas e é convertida em energia elétrica, corrente 
+                                   contínua (CC).</p>
                             </div>
                         </div>
                     </div>
@@ -127,9 +129,10 @@
                                 <img class="img_principal" src="imagem/img4.jpg">
                             </div>
                             <div class="card-content">
-                                <span class="card-title center">Pagamento</span>
-                                <p>Nossa empresa é correspondente bancária certificada pela FEBRABAN, dessa forma
-                                    financiamos seu sistema 100%, sem burocracia em até 60x no boleto.</p>
+                                <span class="card-title center">2</span>
+                                <p>Essa energia passa pelo Inversor que converte essa corrente contínua (CC) em 
+                                   corrente alternada (CA), permitindo que ela seja consumida em casas, indústrias ou 
+                                   comércios.</p>
                             </div>
                         </div>
                     </div>
@@ -141,12 +144,12 @@
                     <div class="col s12 m6 l6">
                         <div class="card hoverable">
                             <div class="card-image">
-                                <img class="img_principal" src="imagem/siteConstrucao.png">
+                                <img class="img_principal" src="imagem/img5.jpg">
                             </div>
                             <div class="card-content">
-                                <span class="card-title center">Instalação</span>
-                                <p>Contamos com engenharia e equipe de instalação próprias, com profissionais capacitados
-                                    para atender residências, comércios e indústrias.</p>
+                                <span class="card-title center">3</span>
+                                <p>Nesse momento, tudo que estiver sendo utilizado na unidade consumidora (lâmpadas, 
+                                   eletrodomésticos, e outros) passa a se abastecer dessa energia.</p>
                             </div>
                         </div>
                     </div>
@@ -154,29 +157,17 @@
                     <div class="col s12 m6 l6">
                         <div class="card hoverable">
                             <div class="card-image">
-                                <img class="img_principal" src="imagem/siteConstrucao.png">
+                                <img class="img_principal" src="imagem/img6.jpg">
                             </div>
                             <div class="card-content">
-                                <span class="card-title center">Homologação</span>
-                                <p>Apresentamos e acompanhamos seu projeto em todo processo de homologação junto a
-                                    concessionária de energia elétrica de sua região.</p>
+                                <span class="card-title center">4</span>
+                                <p>O excedente de energia que foi gerado e não consumido no local é injetado na rede de 
+                                   distribuição e gera créditos para o consumidor que podem ser utilizados em até 60 
+                                   meses.</p>
                             </div>
                         </div>
                     </div>
 
-                </div>
-
-                <div class="col s12 m6 l6">
-                    <div class="card hoverable">
-                        <div class="card-image">
-                            <img class="img_principal" src="imagem/siteConstrucao.png">
-                        </div>
-                        <div class="card-content">
-                            <span class="card-title center">Pós-venda</span>
-                            <p>Além da garantia de 25 anos de eficiência de seu sistema, contamos também com
-                                acompanhamento online, do seu sistema solar.</p>
-                        </div>
-                    </div>
                 </div>
 
             </div>
@@ -467,7 +458,7 @@
 
             <!-- Telefone -->
             <h5 class="espaco_acima">Telefone</h5>
-            <a class="hover-laranja cor-padrao" href="tel:19999999999">(19) 9 9999-9999</a>
+            <a class="hover-laranja cor-padrao" href="tel:19998540517">(19) 9 9854-0517</a>
 
             <!-- E-mail -->
             <h5 class="espaco_acima">E-mail</h5>
