@@ -397,55 +397,30 @@
 
         <!-- Produto 1 -->
         <div class="wrapper-carousel">
-            <h5 class="espaco_acima">Produto 1</h5>
+            <h5 class="espaco_acima">Placas solares</h5>
 
             <div id="carousel-1" class="carousel">
 
                 <!-- É preciso ter dentro do elemento da classe .carousel um elemento .carousel-item, mesmo que vazio, para que ele possa fazer os cálculos. -->
 
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
+                    <img class="materialboxed" src="/imagem/img7.jpg">
                 </div>
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
+                    <img class="materialboxed" src="/imagem/img8.jpg">
                 </div>
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
+                    <img class="materialboxed" src="/imagem/img9.jpg">
                 </div>
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
+                    <img class="materialboxed" src="/imagem/img10.jpg">
                 </div>
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
-                </div>
-
-            </div>
-        </div>
-
-        <!-- Produto 2 -->
-        <div class="wrapper-carousel">
-            <h5 class="espaco_acima">Produto 2</h5>
-
-            <div id="carousel-2" class="carousel">
-
-                <!-- É preciso ter dentro do elemento da classe .carousel um elemento .carousel-item, mesmo que vazio, para que ele possa fazer os cálculos. -->
-
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
+                    <img class="materialboxed" src="/imagem/img11.jpg">
                 </div>
                 <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
+                    <img class="materialboxed" src="/imagem/img12.jpg">
                 </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
-                </div>
-                <div class="carousel-item">
-                    <img class="materialboxed" src="/imagem/siteConstrucao.png">
-                </div>
-
 
             </div>
         </div>
